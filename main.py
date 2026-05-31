@@ -62,7 +62,7 @@ for country in Countries:
         change=indexes["change"].iloc[I]
         if pd.isna(change):
             change=0
-        countriesMD+=f"- {str(Year1)}/{str(year2)} enrollment rate has ben {Groath(change)}\n"
+        countriesMD+=f"- {str(Year1)}/{str(year2)} enrollment rate has been {Groath(change)}\n"
     countriesMD+="\n"
 # put the 5highest and 5lowest countries
 rankingArray=pd.DataFrame(ranking)
