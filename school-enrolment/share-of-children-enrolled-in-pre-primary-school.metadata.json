@@ -1,0 +1,41 @@
+{
+  "chart": {
+    "title": "Share of children enrolled in pre-primary school",
+    "subtitle": "Shown as the net enrollment ratio — the share of children of pre-primary school age (between 3 and 5 years old) who are enrolled in pre-primary education.",
+    "citation": "UNESCO Institute for Statistics (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/school-enrolment?v=1&csvType=full&useColumnShortNames=false&enrolment_type=net_enrolment&level=preprimary&sex=both",
+    "selection": [
+      "World",
+      "Niger",
+      "Indonesia",
+      "Peru"
+    ]
+  },
+  "columns": {
+    "Net enrollment rate in pre-primary education": {
+      "titleShort": "Net enrollment rate in pre-primary education",
+      "titleLong": "Net enrollment rate in pre-primary education",
+      "descriptionShort": "Percentage of children of official pre-primary school age who are enrolled in pre-primary education.",
+      "descriptionKey": [
+        "The net enrollment rate shows what percentage of children are enrolled at the education level intended for their age.",
+        "It compares children enrolled at the correct level for their age to the total population in that same age group. For example, a primary school net enrollment of 90% means 90% of children between the ages of 6 and 11 years are enrolled in primary school. Children who are not enrolled in school or are enrolled at another education level are not counted here.",
+        "The highest possible value is 100%, which would mean all children of the right age are enrolled where they should be. High rates indicate that most children are progressing through school at the expected pace.",
+        "A rate of 90% doesn't necessarily mean 10% of children are out of school entirely — some may be enrolled at different levels (either higher or lower) than expected for their age, but these students aren't counted in the net rate.",
+        "The data comes from school administrative records that track enrollment by individual age, combined with population estimates from national statistics offices or UN sources."
+      ],
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "1997-2024",
+      "type": "Numeric",
+      "owidVariableId": 1029920,
+      "shortName": "net_enrolment_rate__pre_primary__both_sexes__pct__ner_02_cp",
+      "lastUpdated": "2025-05-01",
+      "nextUpdate": "2026-06-30",
+      "citationShort": "UNESCO Institute for Statistics (2025) – with minor processing by Our World in Data",
+      "citationLong": "UNESCO Institute for Statistics (2025) – with minor processing by Our World in Data. “Net enrollment rate in pre-primary education” [dataset]. UNESCO Institute for Statistics, “UNESCO Institute for Statistics (UIS) - Education” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1029920.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-05-30",
+  "activeFilters": {}
+}
